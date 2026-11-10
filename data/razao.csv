@@ -1,0 +1,80 @@
+data;conta;descricao;historico;debito;credito;usuario
+2026-10-11;8.1.7.48.00.01;Despesas de material de expediente;MANUTENÇÃO ÔMEGA - id cp  976824 - NF 78264;3427.02;0.0;usr01
+2026-10-23;8.1.7.63.00.04;Despesas de serviços técnicos especializados;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;715.07;0.0;usr09
+2026-10-26;8.1.7.33.00.01;Despesas de serviços de vigilância;TECNOLOGIA NUVEM AZUL - CP-219104 - NF 17019;2388.49;0.0;usr03
+2026-10-01;8.1.7.48.00.01;Despesas de material de expediente;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;4652.62;0.0;usr09
+2026-10-16;8.1.7.18.00.02;Despesas de manutenção e conservação;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;906.88;0.0;usr09
+2026-10-19;8.1.7.63.00.04;Despesas de serviços técnicos especializados;TECNOLOGIA NUVEM AZUL - CP-606987 - NF 77758;9372.98;0.0;usr03
+2026-10-29;4.9.9.92.00.01;Adiantamentos a fornecedores;PROTEGE VIGILÂNCIA - id adt  545527 - NF 74279;4156.27;0.0;usr02
+2026-10-05;8.1.7.48.00.01;Despesas de material de expediente;TECNOLOGIA NUVEM AZUL - CP-696015 - NF 22310;12178.33;0.0;usr01
+2026-10-28;8.1.7.03.00.01;Despesas de água e energia;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;1039.89;0.0;usr09
+2026-10-01;8.1.7.03.00.01;Despesas de água e energia;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;1831.51;0.0;usr09
+2026-10-09;4.9.9.92.00.01;Adiantamentos a fornecedores;TECNOLOGIA NUVEM AZUL - ID ADT 878116 - NF 70419;11756.65;0.0;usr01
+2026-10-11;8.1.7.63.00.04;Despesas de serviços técnicos especializados;ENERGIA CENTRO-OESTE - Id:CP 869753 - NF 11219;6159.06;0.0;usr01
+2026-10-22;8.1.7.03.00.01;Despesas de água e energia;LIMPA BEM SERVIÇOS - id cp  993701 - NF 76900;604.59;0.0;usr02
+2026-10-06;8.1.7.36.00.01;Despesas de serviços de limpeza;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;2304.11;0.0;usr09
+2026-10-04;8.1.7.48.00.01;Despesas de material de expediente;CONSULTORIA ÁGIL - ID CP 878430 - NF 58464;7127.92;0.0;usr03
+2026-10-06;8.1.7.63.00.04;Despesas de serviços técnicos especializados;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;1987.9;0.0;usr09
+2026-10-27;4.9.9.92.00.01;Adiantamentos a fornecedores;SANEAMENTO ESTADUAL - id adt  942170 - NF 84052;8090.33;0.0;usr02
+2026-10-29;4.9.9.92.00.01;Adiantamentos a fornecedores;PROTEGE VIGILÂNCIA - Id:ADT 456320 - NF 85395;5751.87;0.0;usr03
+2026-10-17;4.9.9.92.00.01;Adiantamentos a fornecedores;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;1098.86;0.0;usr09
+2026-10-11;8.1.7.63.00.04;Despesas de serviços técnicos especializados;TECNOLOGIA NUVEM AZUL - id cp  134614 - NF 51567;1687.38;0.0;usr03
+2026-10-30;8.1.7.18.00.02;Despesas de manutenção e conservação;MANUTENÇÃO ÔMEGA - ID CP 225001 - NF 64897;4424.3;0.0;usr03
+2026-10-03;8.1.7.36.00.01;Despesas de serviços de limpeza;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;4234.0;0.0;usr09
+2026-10-02;4.9.9.92.00.01;Adiantamentos a fornecedores;SANEAMENTO ESTADUAL - Id:ADT 250489 - NF 24482;4362.07;0.0;usr01
+2026-10-18;8.1.7.63.00.04;Despesas de serviços técnicos especializados;MANUTENÇÃO ÔMEGA - ID CP 889976 - NF 78159;13502.06;0.0;usr02
+2026-10-05;8.1.7.33.00.01;Despesas de serviços de vigilância;LIMPA BEM SERVIÇOS - ID CP 172591 - NF 74971;9039.4;0.0;usr03
+2026-10-22;8.1.7.48.00.01;Despesas de material de expediente;CONSULTORIA ÁGIL - CP-527374 - NF 92568;4298.1;0.0;usr02
+2026-10-21;8.1.7.48.00.01;Despesas de material de expediente;PAPELARIA TOTAL - ID CP 699738 - NF 64176;2007.75;0.0;usr03
+2026-10-11;8.1.7.33.00.01;Despesas de serviços de vigilância;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;4359.03;0.0;usr09
+2026-10-20;8.1.7.33.00.01;Despesas de serviços de vigilância;CONSULTORIA ÁGIL - ID CP 588899 - NF 78250;12275.17;0.0;usr01
+2026-10-22;4.9.9.92.00.01;Adiantamentos a fornecedores;SANEAMENTO ESTADUAL - ADT-832087 - NF 78583;3526.68;0.0;usr03
+2026-10-04;8.1.7.33.00.01;Despesas de serviços de vigilância;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;3945.1;0.0;usr09
+2026-10-19;8.1.7.36.00.01;Despesas de serviços de limpeza;ENERGIA CENTRO-OESTE - CP-925545 - NF 86684;2021.96;0.0;usr02
+2026-10-22;8.1.7.33.00.01;Despesas de serviços de vigilância;CONSULTORIA ÁGIL - id cp  945209 - NF 8801;2062.91;0.0;usr03
+2026-10-27;4.9.9.92.00.01;Adiantamentos a fornecedores;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;3025.57;0.0;usr09
+2026-10-22;8.1.7.63.00.04;Despesas de serviços técnicos especializados;MANUTENÇÃO ÔMEGA - id cp  343589 - NF 29521;9753.91;0.0;usr02
+2026-10-21;8.1.7.36.00.01;Despesas de serviços de limpeza;PAPELARIA TOTAL - id cp  148073 - NF 32731;16409.44;0.0;usr01
+2026-10-22;8.1.7.48.00.01;Despesas de material de expediente;CONSULTORIA ÁGIL - id cp  201612 - NF 87887;16951.98;0.0;usr03
+2026-10-04;8.1.7.63.00.04;Despesas de serviços técnicos especializados;LIMPA BEM SERVIÇOS - CP-296497 - NF 58465;7918.93;0.0;usr01
+2026-10-06;8.1.7.48.00.01;Despesas de material de expediente;PROTEGE VIGILÂNCIA - Id:CP 863252 - NF 17139;13399.4;0.0;usr01
+2026-10-10;8.1.7.03.00.01;Despesas de água e energia;ENERGIA CENTRO-OESTE - id cp  804025 - NF 62964;2995.29;0.0;usr03
+2026-10-26;8.1.7.33.00.01;Despesas de serviços de vigilância;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;1065.16;0.0;usr09
+2026-10-29;4.9.9.92.00.01;Adiantamentos a fornecedores;PAPELARIA TOTAL - ID ADT 356412 - NF 64051;954.62;0.0;usr03
+2026-10-08;4.9.9.92.00.01;Adiantamentos a fornecedores;MANUTENÇÃO ÔMEGA - Id:ADT 243155 - NF 59750;901.68;0.0;usr03
+2026-10-23;8.1.7.36.00.01;Despesas de serviços de limpeza;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;386.52;0.0;usr09
+2026-10-01;8.1.7.63.00.04;Despesas de serviços técnicos especializados;TECNOLOGIA NUVEM AZUL - ID CP 819983 - NF 15087;5494.35;0.0;usr03
+2026-10-13;8.1.7.63.00.04;Despesas de serviços técnicos especializados;SANEAMENTO ESTADUAL - CP-506437 - NF 48909;14217.74;0.0;usr01
+2026-10-01;8.1.7.03.00.01;Despesas de água e energia;CONSULTORIA ÁGIL - CP-455370 - NF 8874;14222.88;0.0;usr03
+2026-10-04;8.1.7.48.00.01;Despesas de material de expediente;PAPELARIA TOTAL - ID CP 138031 - NF 73105;9277.16;0.0;usr02
+2026-10-25;8.1.7.63.00.04;Despesas de serviços técnicos especializados;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;1143.4;0.0;usr09
+2026-10-15;8.1.7.63.00.04;Despesas de serviços técnicos especializados;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;1034.59;0.0;usr09
+2026-10-19;8.1.7.63.00.04;Despesas de serviços técnicos especializados;TECNOLOGIA NUVEM AZUL - ID CP 602886 - NF 53463;10842.16;0.0;usr03
+2026-10-13;8.1.7.03.00.01;Despesas de água e energia;ENERGIA CENTRO-OESTE - id cp  535365 - NF 67246;938.79;0.0;usr01
+2026-10-07;8.1.7.03.00.01;Despesas de água e energia;ENERGIA CENTRO-OESTE - id cp  424712 - NF 21473;1523.93;0.0;usr03
+2026-10-26;8.1.7.36.00.01;Despesas de serviços de limpeza;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;489.24;0.0;usr09
+2026-10-29;8.1.7.18.00.02;Despesas de manutenção e conservação;ENERGIA CENTRO-OESTE - id cp  244157 - NF 25021;11241.06;0.0;usr02
+2026-10-29;8.1.7.63.00.04;Despesas de serviços técnicos especializados;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;805.42;0.0;usr09
+2026-10-25;8.1.7.36.00.01;Despesas de serviços de limpeza;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;3471.88;0.0;usr09
+2026-10-21;8.1.7.36.00.01;Despesas de serviços de limpeza;SANEAMENTO ESTADUAL - Id:CP 491406 - NF 7955;10939.16;0.0;usr02
+2026-10-06;4.9.9.92.00.01;Adiantamentos a fornecedores;PAPELARIA TOTAL - Id:ADT 602781 - NF 19823;14503.13;0.0;usr02
+2026-10-17;8.1.7.18.00.02;Despesas de manutenção e conservação;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;435.29;0.0;usr09
+2026-10-13;8.1.7.36.00.01;Despesas de serviços de limpeza;TECNOLOGIA NUVEM AZUL - CP-851984 - NF 69574;9806.38;0.0;usr02
+2026-10-10;8.1.7.33.00.01;Despesas de serviços de vigilância;TECNOLOGIA NUVEM AZUL - id cp  122284 - NF 49385;4622.53;0.0;usr03
+2026-10-14;8.1.7.48.00.01;Despesas de material de expediente;MANUTENÇÃO ÔMEGA - Id:CP 207555 - NF 34847;17515.97;0.0;usr03
+2026-10-14;8.1.7.03.00.01;Despesas de água e energia;CONSULTORIA ÁGIL - Id:CP 418891 - NF 11472;4879.01;0.0;usr03
+2026-10-04;8.1.7.36.00.01;Despesas de serviços de limpeza;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;2851.72;0.0;usr09
+2026-10-10;8.1.7.33.00.01;Despesas de serviços de vigilância;SANEAMENTO ESTADUAL - ID CP 643579 - NF 55167;8445.27;0.0;usr01
+2026-10-14;4.9.9.92.00.01;Adiantamentos a fornecedores;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;1081.52;0.0;usr09
+2026-10-13;8.1.7.48.00.01;Despesas de material de expediente;LIMPA BEM SERVIÇOS - Id:CP 467299 - NF 98964;7615.19;0.0;usr01
+2026-10-15;8.1.7.63.00.04;Despesas de serviços técnicos especializados;SANEAMENTO ESTADUAL - id cp  896963 - NF 92117;5771.83;0.0;usr03
+2026-10-21;8.1.7.18.00.02;Despesas de manutenção e conservação;TECNOLOGIA NUVEM AZUL - Id:CP 670665 - NF 34994;6753.7;0.0;usr03
+2026-10-22;4.9.9.92.00.01;Adiantamentos a fornecedores;SANEAMENTO ESTADUAL - ID ADT 824099 - NF 78038;2348.16;0.0;usr03
+2026-10-19;;;PROTEGE VIGILÂNCIA - id adt  517773 - NF 49444;14397.79;0.0;usr02
+2026-10-10;8.1.7.36.00.01;Despesas de serviços de limpeza;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;165.68;0.0;usr09
+2026-10-23;8.1.7.03.00.01;Despesas de água e energia;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;445.86;0.0;usr09
+2026-10-17;4.9.9.92.00.01;Adiantamentos a fornecedores;TRANSFERÊNCIA ENTRE CONTAS - AJUSTE;4633.94;0.0;usr09
+2026-10-25;8.1.7.03.00.01;Despesas de água e energia;PROTEGE VIGILÂNCIA - id cp  839735 - NF 36499;2067.46;0.0;usr02
+2026-10-18;8.1.7.33.00.01;Despesas de serviços de vigilância;SANEAMENTO ESTADUAL - Id:CP 248252 - NF 64225;11662.85;0.0;usr02
+2026-10-21;8.1.7.03.00.01;Despesas de água e energia;PROTEGE VIGILÂNCIA - Id:CP 289186 - NF 34147;4471.95;0.0;usr02
+2026-10-25;4.9.9.92.00.01;Adiantamentos a fornecedores;SANEAMENTO ESTADUAL - Id:ADT 618922 - NF 76238;4023.22;0.0;usr02
